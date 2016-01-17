@@ -1,6 +1,6 @@
 {
   "name": "koa-robots-parameter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "parse request parameter",
   "author": "寒飞紫",
   "license": "MIT",
@@ -21,8 +21,7 @@
     "babel-plugin-transform-es2015-spread": "^6.4.0",
     "koa": "^1.1.2",
     "should": "8.0.2",
-    "supertest": "1.1.0",
-    "urllib": "^2.7.0"
+    "supertest": "1.1.0"
   },
   "babel": {
     "plugins": [
@@ -39,6 +38,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/koa-robots/koa-robots-static.git"
+    "url": "https://github.com/koa-robots/koa-robots-parameter.git"
   }
 }
